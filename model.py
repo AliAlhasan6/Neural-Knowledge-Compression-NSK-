@@ -1,5 +1,4 @@
-"""
-src/stage2_embedder/model.py
+
 
 Stage 2: Knowledge Graph Embedder  ψ: G → z ∈ R^d
 
